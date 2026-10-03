@@ -1,0 +1,9 @@
+{
+  "name": "heidelberg-catechism-study-continental-20261003",
+  "version": "2026.10.03",
+  "private": true,
+  "description": "欧陆改革宗海德堡要理问答研读静态站",
+  "scripts": {
+    "start": "python3 -m http.server 3457 --bind 127.0.0.1"
+  }
+}
